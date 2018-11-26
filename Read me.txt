@@ -1,2 +1,0 @@
-This is a simple CRUD(create,read,update,delete) using HTML,PHP,bootstrap 4.0.,mysql.
-This site allows users to insert, update and delete data into the database.
